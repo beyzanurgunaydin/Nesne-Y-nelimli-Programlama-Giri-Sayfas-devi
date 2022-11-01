@@ -1,1 +1,1 @@
-# Nesne-Y-nelimli-Programlama-Giri-Sayfas-devi
+Nesne Yönelimli Programlama Giriş Sayfası Ödevi
